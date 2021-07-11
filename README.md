@@ -1,2 +1,3 @@
 # AddressBook
-A fully responsive form for general purposes
+A fully responsive form for an address book
+
